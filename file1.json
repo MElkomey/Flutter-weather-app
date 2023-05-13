@@ -1,0 +1,45 @@
+
+{
+  "coord": {
+    "lon": 31.0019,
+    "lat": 30.7885
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 302.22,
+    "feels_like": 302.54,
+    "temp_min": 302.22,
+    "temp_max": 302.22,
+    "pressure": 1011,
+    "humidity": 47,
+    "sea_level": 1011,
+    "grnd_level": 1009
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 6.45,
+    "deg": 355,
+    "gust": 8.75
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1662307228,
+  "sys": {
+    "country": "EG",
+    "sunrise": 1662262444,
+    "sunset": 1662308196
+  },
+  "timezone": 7200,
+  "id": 347497,
+  "name": "Tanta",
+  "cod": 200
+}
